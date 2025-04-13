@@ -142,4 +142,30 @@ print(response)
 
 ## 📸 UI Preview
 
-_📷 Screenshot or GIF of Streamlit UI goes here if you want_
+## 📷 Screenshots
+
+## User ID Input
+<img width="1483" alt="Screenshot 2025-04-13 at 20 44 12" src="https://github.com/user-attachments/assets/fa45da6b-d16b-46d7-a025-8f7d32062ea2" />
+
+## Share Feedback Section
+<img width="1486" alt="Screenshot 2025-04-13 at 20 17 26" src="https://github.com/user-attachments/assets/8a564f4b-8bd1-484c-9677-24a33a0caf9c" />
+
+## Sample Response
+<img width="1486" alt="Screenshot 2025-04-13 at 20 17 26" src="https://github.com/user-attachments/assets/1d13598c-2995-4adc-a6ff-4dc436632e04" />
+
+## Follow-Up / Reply Section
+<img width="1494" alt="Screenshot 2025-04-13 at 20 18 57" src="https://github.com/user-attachments/assets/08891a87-5a28-47ca-a581-d786f645142c" />
+
+## Negative Review Coversation History
+![screencapture-localhost-8501-2025-04-13-20_32_42](https://github.com/user-attachments/assets/b4fe072b-e93a-43e5-b77b-2d408b9f7a4c)
+
+## Positive Review Coversation History
+
+
+
+
+
+
+
+
+
