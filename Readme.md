@@ -3,6 +3,9 @@
 
 # 🤖 Smart App Review Responder
 
+Demo: [Click here to view the video](https://zaggleprep-my.sharepoint.com/:v:/g/personal/misha_dey_zaggle_in/ESsngDxBHJBDrNVoFbV9acsBQF1mJECG_NE2SzQn7mA7rg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Srykk0)
+
+
 An AI-powered tool to automatically analyze app reviews, determine sentiment, fetch relevant FAQs using semantic search, and generate contextual, human-like responses using OpenAI. The project features a simple **Streamlit UI** for interactive usage.
 
 ---
