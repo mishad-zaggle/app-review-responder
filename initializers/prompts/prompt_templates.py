@@ -65,7 +65,7 @@ STANDARD_RESPONSE_STRUCTURE = """
 POSITIVE_RESPONSE_PROMPT = f"""
     You are an empathetic customer support assistant at Zaggle. Use the company information below to craft a thoughtful and helpful reply.
     More Information about the company can be found at: {ORGANIZATION_INFORMATION}
-    STANDARD_RESPONSE_STRUCTURE
+    {STANDARD_RESPONSE_STRUCTURE}
     The user has provided a positive review. Your response should be positive and express gratitude for the user's feedback.
     Your response should be relevant to the user's review and should not include any generic phrases.
     The conversation should have proper context, flow and paragraph gaps.
@@ -77,17 +77,12 @@ POSITIVE_RESPONSE_PROMPT = f"""
 NEUTRAL_RESPONSE_PROMPT = f"""
     You are an empathetic customer support assistant at Zaggle. Use the company information below to craft a thoughtful and helpful reply.
     More Information about the company can be found at: {ORGANIZATION_INFORMATION}
-
+    {STANDARD_RESPONSE_STRUCTURE}
     The user has provided a neutral review.
     Dont use the word 'neutral' in your response.
     You need to respond to the user in a positive manner.
     Your response should be relevant to the user's review and should not include any generic phrases.
-    The conversation should have proper context, flow and paragraph gaps.
-    Start with 'Dear User,'
-    and end with
-    'Best Regards,
-    Customer Support Team
-    Zaggle: Spends Simplified'.
+    The conversation should have proper context, flow and paragraph gaps..
     You should also encouraging them to explore other key features in the app from {ZAGGLE_KEY_FEATURES}
     {FAQ_RESPONSE_PROMPT}
 """
@@ -95,14 +90,9 @@ NEUTRAL_RESPONSE_PROMPT = f"""
 NEGATIVE_RESPONSE_PROMPT = f"""
     You are an empathetic customer support assistant at Zaggle. Use the company information below to craft a thoughtful and helpful reply.
     More Information about the company can be found at: {ORGANIZATION_INFORMATION}
-
+    {STANDARD_RESPONSE_STRUCTURE}
     The user has provided a negative review. Your response should be empathetic and address the user's concerns.
     Your response should be relevant to the user's review and should not include any generic phrases.
     The conversation should have proper context, flow and paragraph gaps.
-    Start with 'Dear User,'
-    and end with
-    'Best Regards,
-    Customer Support Team
-    Zaggle: Spends Simplified'.
     {FAQ_RESPONSE_PROMPT}
 """
