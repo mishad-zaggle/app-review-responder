@@ -3,7 +3,7 @@ TEXT_EMBEDDING_MODEL = "text-embedding-3-small"
 OPEN_AI_CHAT_MODEL = "gpt-4o"
 
 # DATATSET
-FAQ_DATASET_PATH = 'datasets/zaggle_faq_dataset.csv'
+FAQ_DATASET_PATH = 'datasets/faq_dataset.csv'
 FAQ_EMBEDDINGS_PATH = 'datasets/faq_embeddings.csv'
 FAQ_INDEX_PATH = 'datasets/faq_index.faiss'
 USER_QUERY_FIELD = 'User Query'
