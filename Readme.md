@@ -148,7 +148,7 @@ print(response)
 <img width="1483" alt="Screenshot 2025-04-13 at 20 44 12" src="https://github.com/user-attachments/assets/fa45da6b-d16b-46d7-a025-8f7d32062ea2" />
 
 ## Share Feedback Section
-<img width="1486" alt="Screenshot 2025-04-13 at 20 17 26" src="https://github.com/user-attachments/assets/8a564f4b-8bd1-484c-9677-24a33a0caf9c" />
+<img width="1512" alt="Screenshot 2025-04-13 at 20 16 59" src="https://github.com/user-attachments/assets/80785a1d-63d1-4915-a570-bc758996b72b" />
 
 ## Sample Response
 <img width="1486" alt="Screenshot 2025-04-13 at 20 17 26" src="https://github.com/user-attachments/assets/1d13598c-2995-4adc-a6ff-4dc436632e04" />
@@ -156,16 +156,11 @@ print(response)
 ## Follow-Up / Reply Section
 <img width="1494" alt="Screenshot 2025-04-13 at 20 18 57" src="https://github.com/user-attachments/assets/08891a87-5a28-47ca-a581-d786f645142c" />
 
-## Negative Review Coversation History
-![screencapture-localhost-8501-2025-04-13-20_32_42](https://github.com/user-attachments/assets/b4fe072b-e93a-43e5-b77b-2d408b9f7a4c)
+## Negative Review Conversation History
+![screencapture-localhost-8501-2025-04-13-20_54_11](https://github.com/user-attachments/assets/fc3a0450-bbdf-423c-b62b-693ed952e0d0)
 
-## Positive Review Coversation History
+## Positive Review Conversation History
+![screencapture-localhost-8501-2025-04-13-21_07_41](https://github.com/user-attachments/assets/41f31350-190e-425d-992d-13ef3a203ced)
 
-
-
-
-
-
-
-
-
+## Neutral / Random Reviews Conversion
+![screencapture-localhost-8501-2025-04-13-21_12_08](https://github.com/user-attachments/assets/acca5d2a-470a-4afc-86b7-b0a91bf097b1)
