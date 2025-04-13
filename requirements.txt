@@ -1,0 +1,7 @@
+openai
+pandas
+python-dotenv
+faiss-cpu
+streamlit
+python-decouple
+redis
