@@ -172,26 +172,36 @@ print(response)
 ## Negative Reviews:
 
 ## Sample 1:
-## Google Play Response:
+### Google Play Response:
 <img width="885" alt="Screenshot 2025-04-14 at 12 45 13" src="https://github.com/user-attachments/assets/00bceae1-c10b-4ce2-8638-44f61c70567b" />
-## Agent Response:
+
+### Agent Response:
 <img width="1464" alt="Screenshot 2025-04-14 at 12 47 08" src="https://github.com/user-attachments/assets/f6e44324-ad92-4bd1-944f-cbc8b660f5a3" />
 
 ## Sample 2:
-## Google Play Response:
+### Google Play Response:
 <img width="774" alt="Screenshot 2025-04-14 at 12 48 43" src="https://github.com/user-attachments/assets/319242d4-b883-4c98-8588-3cd0bd00455f" />
-## Agent Response:
+### Agent Response:
 <img width="1474" alt="Screenshot 2025-04-14 at 12 49 26" src="https://github.com/user-attachments/assets/70ee193d-04ef-4318-9487-29abc565b7ff" />
 
 ## Sample 3:
-## Google Play Response:
+### Google Play Response:
 <img width="715" alt="Screenshot 2025-04-14 at 12 52 07" src="https://github.com/user-attachments/assets/580eea9a-14db-48d1-9f1e-421694ea093d" />
-## Agent Response:
+
+### Agent Response:
 <img width="1475" alt="Screenshot 2025-04-14 at 12 53 29" src="https://github.com/user-attachments/assets/201e8a4c-c3d0-4ed3-b5be-875991b9bc4b" />
 
 ## Positive Reviews:
+## Sample 1:
+### Google Play Response:
+<img width="690" alt="Screenshot 2025-04-14 at 12 57 25" src="https://github.com/user-attachments/assets/8ba5f868-a546-4626-899e-49c0fee9c89f" />
 
+### Agent Response:
+<img width="1442" alt="Screenshot 2025-04-14 at 12 58 18" src="https://github.com/user-attachments/assets/9d752d65-0deb-4917-a7ee-1bb517b391cb" />
 
+## Sample 2:
+### Google Play Response:
+<img width="849" alt="Screenshot 2025-04-14 at 12 59 29" src="https://github.com/user-attachments/assets/c317db57-bf62-463d-a145-8c1ff363299f" />
 
-
-
+### Agent Response:
+<img width="1473" alt="Screenshot 2025-04-14 at 12 59 50" src="https://github.com/user-attachments/assets/21f94cba-2912-45fa-b2f6-8ebb07711c4c" />
