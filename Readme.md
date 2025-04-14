@@ -159,11 +159,11 @@ print(response)
 ## Follow-Up / Reply Section
 <img width="1494" alt="Screenshot 2025-04-13 at 20 18 57" src="https://github.com/user-attachments/assets/08891a87-5a28-47ca-a581-d786f645142c" />
 
-## Google Play/App Store Reviews - Negative Review Conversation History
+## Responses to Google Play/App Store Reviews - Negative Review Conversation History
 ![screencapture-localhost-8501-2025-04-13-20_54_11](https://github.com/user-attachments/assets/fc3a0450-bbdf-423c-b62b-693ed952e0d0)
 
-## Google Play/App Store Reviews - Positive Review Conversation History
+## Responses to Google Play/App Store Reviews - Positive Review Conversation History
 ![screencapture-localhost-8501-2025-04-13-21_07_41](https://github.com/user-attachments/assets/41f31350-190e-425d-992d-13ef3a203ced)
 
-## Google Play/App Store Reviews  - Neutral / Random Reviews Conversion
+## Responses to Google Play/App Store Reviews - Neutral / Random Reviews Conversion
 ![screencapture-localhost-8501-2025-04-13-21_12_08](https://github.com/user-attachments/assets/acca5d2a-470a-4afc-86b7-b0a91bf097b1)
