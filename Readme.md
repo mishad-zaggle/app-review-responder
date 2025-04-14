@@ -210,6 +210,7 @@ print(response)
 ## Agent Responding to Reviews in Other Languages:
 ### Sample 1
 <img width="1471" alt="Screenshot 2025-04-14 at 14 22 38" src="https://github.com/user-attachments/assets/fb5b2001-8dc6-4dd5-9d16-4cae612914a1" />
+
 ### Sample 2
 <img width="1194" alt="Screenshot 2025-04-14 at 14 23 30" src="https://github.com/user-attachments/assets/4d56ca18-0073-49f8-8246-82708f849c36" />
 
