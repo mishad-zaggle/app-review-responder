@@ -167,3 +167,31 @@ print(response)
 
 ## Responses to Google Play/App Store Reviews - Neutral / Random Reviews Conversion
 ![screencapture-localhost-8501-2025-04-13-21_12_08](https://github.com/user-attachments/assets/acca5d2a-470a-4afc-86b7-b0a91bf097b1)
+
+## Google Play v/s Agent Response Comparision
+## Negative Reviews:
+
+## Sample 1:
+## Google Play Response:
+<img width="885" alt="Screenshot 2025-04-14 at 12 45 13" src="https://github.com/user-attachments/assets/00bceae1-c10b-4ce2-8638-44f61c70567b" />
+## Agent Response:
+<img width="1464" alt="Screenshot 2025-04-14 at 12 47 08" src="https://github.com/user-attachments/assets/f6e44324-ad92-4bd1-944f-cbc8b660f5a3" />
+
+## Sample 2:
+## Google Play Response:
+<img width="774" alt="Screenshot 2025-04-14 at 12 48 43" src="https://github.com/user-attachments/assets/319242d4-b883-4c98-8588-3cd0bd00455f" />
+## Agent Response:
+<img width="1474" alt="Screenshot 2025-04-14 at 12 49 26" src="https://github.com/user-attachments/assets/70ee193d-04ef-4318-9487-29abc565b7ff" />
+
+## Sample 3:
+## Google Play Response:
+<img width="715" alt="Screenshot 2025-04-14 at 12 52 07" src="https://github.com/user-attachments/assets/580eea9a-14db-48d1-9f1e-421694ea093d" />
+## Agent Response:
+<img width="1475" alt="Screenshot 2025-04-14 at 12 53 29" src="https://github.com/user-attachments/assets/201e8a4c-c3d0-4ed3-b5be-875991b9bc4b" />
+
+## Positive Reviews:
+
+
+
+
+
