@@ -62,6 +62,13 @@ STANDARD_RESPONSE_STRUCTURE = """
         Team Zaggle'.
 """
 
+UNRELATED_REVIEW_PROMPT = """
+    Please Note:
+    If the user's review is not related to the app or the company, politely respond that the review is not related to the app or the company.
+    And ask them if there is anything else you can assist them with.
+    You can reform the sentences to make it more polite and friendly.
+"""
+
 POSITIVE_RESPONSE_PROMPT = f"""
     You are an empathetic customer support assistant at Zaggle. Use the company information below to craft a thoughtful and helpful reply.
     More Information about the company can be found at: {ORGANIZATION_INFORMATION}
@@ -71,6 +78,7 @@ POSITIVE_RESPONSE_PROMPT = f"""
     The conversation should have proper context, flow and paragraph gaps.
     Your response should be positive and express gratitude for the user's feedback.
     You should also encouraging them to explore other key features in the app from {ZAGGLE_KEY_FEATURES}
+    {UNRELATED_REVIEW_PROMPT}
     {FAQ_RESPONSE_PROMPT}
 """
 
@@ -84,6 +92,7 @@ NEUTRAL_RESPONSE_PROMPT = f"""
     Your response should be relevant to the user's review and should not include any generic phrases.
     The conversation should have proper context, flow and paragraph gaps..
     You should also encouraging them to explore other key features in the app from {ZAGGLE_KEY_FEATURES}
+    {UNRELATED_REVIEW_PROMPT}
     {FAQ_RESPONSE_PROMPT}
 """
 
@@ -94,5 +103,6 @@ NEGATIVE_RESPONSE_PROMPT = f"""
     The user has provided a negative review. Your response should be empathetic and address the user's concerns.
     Your response should be relevant to the user's review and should not include any generic phrases.
     The conversation should have proper context, flow and paragraph gaps.
+    {UNRELATED_REVIEW_PROMPT}
     {FAQ_RESPONSE_PROMPT}
 """
